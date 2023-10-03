@@ -4,3 +4,4 @@
 Első körben mielőtt saját házi állatot választunk érdemes utánna néznünk, hogy milyen igényei vannak az adott kedvencnek amit mi kiszemeltünk. itt arra gondolok, hogy például ha egy panelban lakunk akkor nem érdemes egy nagy mozgás igénnyel rendelekző <em>Vizslát</em> választani házi kedvencnek.
 
 ## A kedvenc rövid ismertetése
+
