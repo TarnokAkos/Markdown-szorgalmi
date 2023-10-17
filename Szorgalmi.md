@@ -15,3 +15,4 @@ Vagy estleg a boltban kapható eledelek helyett saját magunk főzzünk neki?
 Hát erre a kérdésre nincs konkrét és egyértelmű válasz. Ezt ugyan is rengeteg változó befolyásolja például a kutya életkora, egészségi állaopta és az is, hogy mennyit mozog. Ezekből egyértelmű hogy egy fiatal kutyusnak több energiát kell bevinni, mint egy élete végén járó egyednek.
 
 ### Hús vagy gabonaféle és nedves vagy száraz eledel melyik a jobb?
+Ez egy viszonylag nehéz kérdés mivel egyik kutya sem teljesen egyforma de a boltban vehető ételeknél már az összetételből könnyen eldönthető, hogy minőségi-e az adott eledel. Ahhoz, hogy minőségien tudjuk etetni a kutyusunkat az éterdnjének kb. 70% ának kell lennie a húsnak. A maradék résznek kell lennie a zöldség, gyümölcs féléknek a megfelelő vitamin bevitel miatt. Nyilván a legtöbb ember számára a száraz eldel a legpraktikusabb de a száraz eledelnek számos hátránya van. Hiszen nem tartalmaz nedvességet és kevesebb fontos tápanyagot tartalmaz.
